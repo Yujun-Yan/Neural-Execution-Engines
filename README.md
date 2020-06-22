@@ -1,4 +1,4 @@
-### Link to the paper: https://arxiv.org/abs/2006.08084
+# Link to the paper: https://arxiv.org/abs/2006.08084
 This folder only contains code to run NEE. For the baseline transformer model, it can be obtained from https://github.com/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb
 
 # Software requirement:
