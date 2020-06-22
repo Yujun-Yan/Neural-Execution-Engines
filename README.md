@@ -15,23 +15,23 @@ python run_experiment.py -T [task_name] -R [reload_file_path] -H [number of hold
 
 ### task_name options:
 
-"add": addition task
+  "add": addition task
 
-"addhold": addition task with holdout
+  "addhold": addition task with holdout
 
-"mul": multiplication task
+  "mul": multiplication task
 
-"merge": merge sort task
+  "merge": merge sort task
 
-"sel": selection sort task
+  "sel": selection sort task
 
-"predist": train Dijkstra's shortest path with graph traces
+  "predist": train Dijkstra's shortest path with graph traces
 
-"premst": train Prim's minimum spanning tree with graph traces
+  "premst": train Prim's minimum spanning tree with graph traces
 
-"dist": evaluate Dijkstra's shortest path
+  "dist": evaluate Dijkstra's shortest path
 
-"mst": evaluate Prim's minimum spanning tree
+  "mst": evaluate Prim's minimum spanning tree
 
 ### To note: run "dist" or "mst" require 2 file paths
 
